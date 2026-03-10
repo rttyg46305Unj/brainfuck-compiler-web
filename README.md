@@ -1,8 +1,8 @@
-# [Online Brainfuck compiler](https://brainfuck.antosser.xyz/)
+# [Online Brainfuck compiler](https://brainfuck.cyrrrt.me/)
 Brainfuck was designed to be the hardest programming language ever, but I made a tool to compile easy-to-read code to brainfuck.
 
 ## Usage
-1. Go to [this link.](https://brainfuck.antosser.xyz/)
+1. Go to [this link.](https://brainfuck.cyrrrt.me/)
 2. Enter your code in the text area below "Input".
 3. Click the "Build" button.
 4. Copy the code from the text area below "Ouput" and paste it into your brainfuck interpreter.
