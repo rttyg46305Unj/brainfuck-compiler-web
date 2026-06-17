@@ -33,7 +33,7 @@ Don't put ; at the end of any line.
 - **divnum** {variable} {value} {module-output} - Divide value of variable by {value} and store result into {variable} and {module-output}
 - **divvar** {variable} {variable2} {module-output} - Divide value of variable by {variable2} and store result into {variable} and {module-output}
 
-#### I/O (Inout / Output)
+#### I/O (Input / Output)
 - **input** {variable} - Set value of variable to the pressed key
 - **print** {variable} - Print ASCII character of variable
 - **printletter** {character} - Print character
@@ -237,4 +237,4 @@ It is gif!
 ```
 
 ## Thanks to
-* [GitHub Copilot](https://copilot.github.com/) for writing some of the code for me
+* [GitHub Copilot](https://copilot.github.com/) for writing some of the code for me.
