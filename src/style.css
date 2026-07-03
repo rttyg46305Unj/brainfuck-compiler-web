@@ -39,10 +39,6 @@ textarea {
     border-bottom: 1px solid #d0d7de;
 }
 
-#rmLocalStorage {
-    display: none;
-}
-
 .githublink {
     font-size: smaller;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
